@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suto-Michimasa&layout=compact&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Suto-Michimasa&count_private=true&theme=github_dark" />
-</p>
-
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suto-Michimasa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
