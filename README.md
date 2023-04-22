@@ -1,6 +1,7 @@
 # Hi there👋 I'm Michimasa Suto
-#
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,docker,firebase,gcp,js,html,css,wordpress,xd,figma,postman,rasberrypi,arduino)](https://skillicons.dev)
+
+## 🧑‍💻 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,docker,firebase,gcp,js,html,css,wordpress,xd,figma,postman,rasberrypi)](https://skillicons.dev)
 
 <!--
 **Suto-Michimasa/Suto-Michimasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suto-michimasa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 💎 Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suto-michimasa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Suto-michimasa&count_private=true&show_icons=true&theme=dark" />
+<!--   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suto-michimasa&langs_count=8&layout=compact" /> -->
+</div>
+
+<!-- ## 🏆 GitHub Profile Trophy
+
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=Suto-michimasa&theme=onedark&no-frame=true"/>
+ -->
