@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suto-michimasa)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suto-michimasa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suto-michimasa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
