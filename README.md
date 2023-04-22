@@ -1,7 +1,7 @@
 # Hi there👋 I'm Michimasa Suto
 
 ## 🧑‍💻 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,docker,firebase,gcp,js,html,css,wordpress,xd,figma,postman,rasberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,vue,python,aws,docker,nodejs,redux,solidity,firebase,gcp,js,bootstrap,tailwind,materialui,html,css,wordpress,vscode,xd,figma,postman,rasberrypi,arduino)](https://skillicons.dev)
 
 <!--
 **Suto-Michimasa/Suto-Michimasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
