@@ -1,6 +1,6 @@
 # Hi there👋 I'm Michimasa Suto
 #
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,docker,firebase,gcp,js,html,css,wordpressxd,figma,postman,rasberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,docker,firebase,gcp,js,html,css,wordpress,xd,figma,postman,rasberrypi,arduino)](https://skillicons.dev)
 
 <!--
 **Suto-Michimasa/Suto-Michimasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github-profile-trophy.vercel.app/?username=Suto-michimasa&theme=flat
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suto-Michimasa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
