@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Suto-michimasa&theme=onedark&no-frame=true"/>
  -->
 
+## 🧑‍💻 WakaTime
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
