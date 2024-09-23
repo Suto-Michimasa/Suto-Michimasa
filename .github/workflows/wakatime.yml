@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 4am JST
-    - cron: "30 19 * * *"
+    - cron: "00 09 * * *"
 
 jobs:
   github-metrics:
