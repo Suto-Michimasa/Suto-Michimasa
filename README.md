@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2050%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -76,5 +78,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2024 14:49:26 UTC
+ Last Updated on 12/11/2024 09:17:58 UTC
 <!--END_SECTION:waka-->
