@@ -34,52 +34,20 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C554%20hrs%2040%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48704 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                192497 commits      ███████████████░░░░░░░░░░   59.17 % 
-🌃 Evening                78065 commits       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌙 Night                  6044 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   61336 commits       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  55306 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Wednesday                75484 commits       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Thursday                 63140 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Friday                   52771 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Saturday                 9321 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Sunday                   7952 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       11 hrs              ████████░░░░░░░░░░░░░░░░░   32.82 % 
-TypeScript               6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Markdown                 6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-YAML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C562%20hrs%2036%20mins-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               37 repos            █████████████░░░░░░░░░░░░   52.11 % 
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-HCL                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+TypeScript               27 repos            ███████████████░░░░░░░░░░   60.00 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 16/07/2026 12:36:25 UTC
+ Last Updated on 17/07/2026 10:49:55 UTC
 <!--END_SECTION:waka-->
