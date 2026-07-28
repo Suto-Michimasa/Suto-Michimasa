@@ -34,26 +34,24 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C617%20hrs%2055%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                47942 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-🌆 Daytime                185597 commits      ███████████████░░░░░░░░░░   58.63 % 
-🌃 Evening                76953 commits       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-🌙 Night                  6075 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌞 Morning                49189 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+🌆 Daytime                191102 commits      ███████████████░░░░░░░░░░   58.69 % 
+🌃 Evening                79164 commits       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+🌙 Night                  6134 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   59134 commits       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  53363 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                72703 commits       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Thursday                 60619 commits       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Friday                   50565 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Saturday                 10874 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   9309 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Monday                   60793 commits       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Tuesday                  54816 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Wednesday                74719 commits       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Thursday                 62550 commits       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Friday                   52094 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Saturday                 10921 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Sunday                   9696 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 
@@ -61,11 +59,37 @@ Sunday                   9309 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       24 hrs 26 mins      █████████████░░░░░░░░░░░░   51.79 % 
-TypeScript               9 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Markdown                 5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Go                       24 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.57 % 
+TypeScript               11 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Markdown                 5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+SQL                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 44 hrs 2 mins (87.35%)
+
+✍️ 15,806 lines written by AI, 342 lines written by hand (97.88% AI-written)
+
+🔤 1,052,167,720 Input Tokens, 2,894,560 Output Tokens
+
+💵 $4704.21 Estimated AI Cost This Week
+
+🧠 144 AI Sessions, 1054 AI Prompts
+
+Opus                     18,239 lines        ███████████████████████░░   93.08 % 
+Composer                 591 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Sonnet                   584 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+GPT                      181 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.88% of written lines came from AI
+📝 Concise Prompter — average 470 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 8.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +105,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 13:59:34 UTC
+ Last Updated on 28/07/2026 13:10:41 UTC
 <!--END_SECTION:waka-->
