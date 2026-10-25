@@ -34,28 +34,28 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C856%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-813%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-819%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                53294 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                203950 commits      ███████████████░░░░░░░░░░   59.64 % 
-🌃 Evening                81466 commits       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌙 Night                  3278 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+🌞 Morning                93217 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌆 Daytime                315398 commits      ██████████████░░░░░░░░░░░   55.53 % 
+🌃 Evening                147304 commits      ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌙 Night                  12085 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   67300 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Tuesday                  62732 commits       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Wednesday                84509 commits       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Thursday                 65213 commits       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Friday                   58303 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 2045 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Sunday                   1886 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Monday                   102532 commits      █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Tuesday                  95788 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Wednesday                127681 commits      ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Thursday                 108472 commits      █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Friday                   89689 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Saturday                 21312 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Sunday                   22530 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 
@@ -63,25 +63,25 @@ Sunday                   1886 commits        ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Other                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Markdown                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Go                       3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-YAML                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TypeScript               9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Markdown                 7 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Other                    6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+YAML                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Go                       3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               38 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               39 repos            █████████████░░░░░░░░░░░░   51.32 % 
 Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
 HCL                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
 
 
- Last Updated on 24/10/2026 14:33:17 UTC
+ Last Updated on 25/10/2026 15:55:22 UTC
 <!--END_SECTION:waka-->
